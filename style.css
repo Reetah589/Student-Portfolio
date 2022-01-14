@@ -71,14 +71,14 @@ footer h3 {
 }
 
 .projects {
-    column-count: 2;
+    column-count: 3;
     padding: 30px 100px;
     background: purple;
     color: seashell;
 }
 
 .projects h2 {
-    font-size: 40px;
+    font-size: 45px;
 }
 
 .projects div {
